@@ -1,1 +1,0 @@
-!function(o){const t=o.eu=o.eu||{};t.dictionary=Object.assign(t.dictionary||{},{Bold:"Lodia","Dropdown toolbar":"","Editor toolbar":"","Rich Text Editor":"Testu aberastuaren editorea","Rich Text Editor, %0":"Testu aberastuaren editorea, %0","Show more items":""}),t.getPluralForm=function(o){return 1!=o}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

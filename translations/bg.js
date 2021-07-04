@@ -1,1 +1,0 @@
-!function(n){const i=n.bg=n.bg||{};i.dictionary=Object.assign(i.dictionary||{},{Bold:"Удебелен"}),i.getPluralForm=function(n){return 1!=n}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

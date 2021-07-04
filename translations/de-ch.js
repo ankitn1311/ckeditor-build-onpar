@@ -1,1 +1,0 @@
-!function(o){const t=o["de-ch"]=o["de-ch"]||{};t.dictionary=Object.assign(t.dictionary||{},{"Dropdown toolbar":"","Editor toolbar":"","Rich Text Editor":"Rich-Text-Edito","Rich Text Editor, %0":"Rich-Text-Editor, %0","Show more items":""}),t.getPluralForm=function(o){return 1!=o}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

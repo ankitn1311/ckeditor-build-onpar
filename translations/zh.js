@@ -1,1 +1,0 @@
-!function(o){const t=o.zh=o.zh||{};t.dictionary=Object.assign(t.dictionary||{},{Bold:"粗體","Dropdown toolbar":"下拉選單","Editor toolbar":"編輯器工具","Rich Text Editor":"豐富文字編輯器","Rich Text Editor, %0":"豐富文字編輯器，%0","Show more items":"顯示更多"}),t.getPluralForm=function(o){return 0}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,1 +1,0 @@
-!function(o){const t=o.id=o.id||{};t.dictionary=Object.assign(t.dictionary||{},{Bold:"Tebal","Dropdown toolbar":"Alat dropdown","Editor toolbar":"Alat editor","Rich Text Editor":"Editor Teks Kaya","Rich Text Editor, %0":"Editor Teks Kaya, %0","Show more items":""}),t.getPluralForm=function(o){return 0}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,1 +1,0 @@
-!function(o){const t=o.pt=o.pt||{};t.dictionary=Object.assign(t.dictionary||{},{Bold:"Negrito","Dropdown toolbar":"","Editor toolbar":"","Rich Text Editor":"Editor de texto avançado","Rich Text Editor, %0":"Editor de texto avançado, %0","Show more items":""}),t.getPluralForm=function(o){return 1!=o}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

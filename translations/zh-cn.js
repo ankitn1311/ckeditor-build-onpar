@@ -1,1 +1,0 @@
-!function(o){const t=o["zh-cn"]=o["zh-cn"]||{};t.dictionary=Object.assign(t.dictionary||{},{Bold:"加粗","Dropdown toolbar":"下拉工具栏","Editor toolbar":"编辑器工具栏","Rich Text Editor":"富文本编辑器","Rich Text Editor, %0":"富文本编辑器， %0","Show more items":"显示更多"}),t.getPluralForm=function(o){return 0}}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
